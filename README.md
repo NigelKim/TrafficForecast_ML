@@ -4,7 +4,7 @@ Seunghwan “Nigel” Kim, Dohoon “Andy” Kim
 
 Advisor: Dr. Sanmay Das
 
-Spring 2018 CSE 400E `Report
+Spring 2018 CSE 400E Report
 
 Washington University in St. Louis
 
